@@ -1,4 +1,4 @@
-const { isOdd } = require("../dist/core.js");
+const { isOdd } = require("../dist/index.js");
 
 test("isOdd", () => {
   expect(isOdd(1)).toBe(false);
