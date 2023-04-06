@@ -5,7 +5,6 @@
     "packages/*"
   ],
   "scripts": {
-    "version": "npm i",
     "release": "npx lerna version --conventional-commits --yes"
   },
   "devDependencies": {
