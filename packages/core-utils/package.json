@@ -23,7 +23,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "core": "^0.0.1"
+    "core": "*"
   },
   "devDependencies": {
     "jest": "^29.5.0",
