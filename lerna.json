@@ -7,6 +7,5 @@
       "allowBranch": "master",
       "conventionalCommits": true
     }
-  },
-  "ignoreChanges": ["**/__tests__/**", "**/*.md"]
+  }
 }
