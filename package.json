@@ -5,7 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "release": "npx lerna version --conventional-commits --yes"
+    "release": "npx lerna version --conventional-commits --yes",
+    "publish": "npx lerna publish --yes"
   },
   "devDependencies": {
     "lerna": "^6.6.1"
