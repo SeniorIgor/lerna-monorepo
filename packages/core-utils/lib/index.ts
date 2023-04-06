@@ -1,7 +1,5 @@
-'use strict';
+import { isOdd } from 'core';
 
-module.exports = coreUtils;
-
-function coreUtils() {
-  return 'Hello from coreUtils';
+export function isEven(n: number): boolean {
+  return !isOdd(n);
 }

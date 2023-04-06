@@ -18,6 +18,9 @@
     "build": "tsc",
     "test": "npx lerna run build --scope=core && jest"
   },
+  "dependencies": {
+    "core-utils": "*"
+  },
   "devDependencies": {
     "jest": "^29.5.0",
     "typescript": "^5.0.3"

@@ -1,7 +1,7 @@
-'use strict';
+const { isEven } = require("../dist/index.js");
 
-const coreUtils = require('..');
-const assert = require('assert').strict;
-
-assert.strictEqual(coreUtils(), 'Hello from coreUtils');
-console.info('coreUtils tests passed');
+test("isOdd", () => {
+  expect(isEven(1)).toBe(false);
+  expect(isEven(2)).toBe(true);
+  expect(isEven(3)).toBe(false);
+});
