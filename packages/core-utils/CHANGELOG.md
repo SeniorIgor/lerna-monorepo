@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/SeniorIgor/lerna-monorepo/compare/@senior_org/core-utils@0.1.0...@senior_org/core-utils@0.2.0) (2023-04-06)
+
+
+### Features
+
+* **core-lib:** changes utils ([d64e990](https://github.com/SeniorIgor/lerna-monorepo/commit/d64e990e3fae22fc14a0ff8eee6e091481fd843b))
+
+
+
+
+
 # 0.1.0 (2023-04-06)
 
 
