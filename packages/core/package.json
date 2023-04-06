@@ -7,6 +7,9 @@
   "license": "ISC",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -21,5 +24,6 @@
   "devDependencies": {
     "jest": "^29.5.0",
     "typescript": "^5.0.3"
-  }
+  },
+  "gitHead": "8603663c81ef9a42ffa6b3231dc4099bbae387ea"
 }
