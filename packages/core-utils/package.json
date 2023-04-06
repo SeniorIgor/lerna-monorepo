@@ -16,7 +16,10 @@
   ],
   "scripts": {
     "build": "tsc",
-    "test": "npx lerna run build --scope=core-lib && jest"
+    "test": "jest"
+  },
+  "dependencies": {
+    "core": "*"
   },
   "devDependencies": {
     "jest": "^29.5.0",
