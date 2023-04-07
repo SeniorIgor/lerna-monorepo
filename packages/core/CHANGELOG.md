@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/SeniorIgor/lerna-monorepo/compare/@senior_org/core@0.2.1...@senior_org/core@0.2.2) (2023-04-07)
+
+
+### Bug Fixes
+
+* **root:** fix all packages ([faf377b](https://github.com/SeniorIgor/lerna-monorepo/commit/faf377bf2cd4d000c89308636bb589f9a2a19e36))
+
+
+
+
+
 ## [0.2.1](https://github.com/SeniorIgor/lerna-monorepo/compare/@senior_org/core@0.2.0...@senior_org/core@0.2.1) (2023-04-07)
 
 
