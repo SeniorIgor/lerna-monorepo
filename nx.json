@@ -19,6 +19,9 @@
     "test": {
       "dependsOn": ["build"],
       "inputs": ["all", "^public"]
+    },
+    "prepublishOnly": {
+      "dependsOn": ["build"]
     }
   }
 }

@@ -6,8 +6,7 @@
   ],
   "scripts": {
     "release": "npx lerna version --conventional-commits --no-commit-hooks --yes",
-    "release:dev": "npx lerna version prerelease --no-changelog --no-commit-hooks --yes",
-    "prepublishOnly": "npx lerna build"
+    "release:dev": "npx lerna version prerelease --no-changelog --no-commit-hooks --yes"
   },
   "devDependencies": {
     "lerna": "^6.6.1"
