@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.4-feature-1.1](https://github.com/SeniorIgor/lerna-monorepo/compare/@senior_org/core@0.2.4-feature-1.0...@senior_org/core@0.2.4-feature-1.1) (2023-04-18)
+
+**Note:** Version bump only for package @senior_org/core
+
+
+
+
+
 ## [0.2.3](https://github.com/SeniorIgor/lerna-monorepo/compare/@senior_org/core@0.2.2...@senior_org/core@0.2.3) (2023-04-07)
 
 
