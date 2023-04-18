@@ -5,7 +5,3 @@ export function multiply(first: number, second: number): number {
 export function multiply2(first: number, second: number): number {
   return first * second;
 }
-
-export function multiply3(first: number, second: number): number {
-  return first * second;
-}
