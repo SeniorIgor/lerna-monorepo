@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/SeniorIgor/lerna-monorepo/compare/@senior_org/core@0.2.4...@senior_org/core@0.3.0) (2023-04-18)
+
+
+### Features
+
+* **core:** create new function ([f3ddeea](https://github.com/SeniorIgor/lerna-monorepo/commit/f3ddeea2d7c0e81604aa35f7bbfd96ba950e48ee))
+
+
+
+
+
 ## [0.2.4](https://github.com/SeniorIgor/lerna-monorepo/compare/@senior_org/core@0.2.4-feature-1.1...@senior_org/core@0.2.4) (2023-04-18)
 
 **Note:** Version bump only for package @senior_org/core
