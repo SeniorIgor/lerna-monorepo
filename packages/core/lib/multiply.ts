@@ -13,3 +13,7 @@ export function multiply3(first: number, second: number): number {
 export function multiply4(first: number, second: number): number {
   return second * first;
 }
+
+export function multiply5(n: number, m: number): number {
+  return n * m;
+}
