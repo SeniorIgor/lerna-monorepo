@@ -6,5 +6,5 @@ release-dev:
 	npx lerna publish from-package --yes --preid $(BRANCH)
 
 release-prod:
-	npx lerna version --conventional-commits --no-commit-hooks --yes
+	npx lerna version --conventional-commits --conventional-graduate --no-commit-hooks --yes
 	npx lerna publish from-package --yes
