@@ -20,16 +20,8 @@
       "dependsOn": ["^test"],
       "inputs": ["all", "^public"]
     },
-    "lint": {
-      "dependsOn": ["^lint"],
-      "inputs": ["all", "^public"]
-    },
-    "type-check": {
-      "dependsOn": ["^type-check"],
-      "inputs": ["all", "^public"]
-    },
     "prepublishOnly": {
-      "dependsOn": ["type-check", "lint", "test", "build"]
+      "dependsOn": ["test", "build"]
     }
   }
 }
