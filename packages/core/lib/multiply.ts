@@ -25,3 +25,7 @@ export function multiply6(m: number, n: number): number {
 export function multiply7(m: number, n: number): number {
   return m * n;
 }
+
+export function multiply8(m: number, n: number): number {
+  return m * n;
+}
