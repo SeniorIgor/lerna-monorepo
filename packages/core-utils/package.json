@@ -20,7 +20,9 @@
   ],
   "scripts": {
     "build": "tsc",
-    "test": "jest"
+    "test": "jest",
+    "lint": "echo \"Lint core-lib\"",
+    "type-check": "echo \"type-check core-lib\""
   },
   "dependencies": {
     "core": "*"
